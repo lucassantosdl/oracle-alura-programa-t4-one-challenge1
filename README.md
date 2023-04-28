@@ -15,4 +15,6 @@ Iniciante em Programação de desenvolver um decodificador de texto com Javascri
 - MOBILE AND WEB
 - TAILWIND  
 
+Deploy: https://lucassantosdl.github.io/oracle-alura-programa-t4-one-challenge1/
+
 ![Captura de Tela (103)](https://user-images.githubusercontent.com/113383301/235260501-00ee0403-9956-4eb1-8f7a-0747a74c7cac.png)
